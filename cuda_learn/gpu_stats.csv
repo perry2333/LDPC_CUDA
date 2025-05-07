@@ -1,0 +1,7 @@
+
+NOTICE: Existing SQLite export found: report1.sqlite
+        It is assumed file was previously exported from: report1.nsys-rep
+        Consider using --force-export=true if needed.
+
+Processing [report1.sqlite] with [./report1.nsys-rep]... 
+
