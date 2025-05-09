@@ -1,0 +1,1794 @@
+Avg time for 1 blocks x 128 threads: 153.329330 ms
+Sample outputs: 14570237.000000
+Avg time for 1 blocks x 129 threads: 163.749817 ms
+Sample outputs: 14480058.000000
+Avg time for 1 blocks x 130 threads: 162.481949 ms
+Sample outputs: 14390301.000000
+Avg time for 1 blocks x 131 threads: 161.350250 ms
+Sample outputs: 14301879.000000
+Avg time for 1 blocks x 132 threads: 160.235504 ms
+Sample outputs: 14211361.000000
+Avg time for 1 blocks x 133 threads: 159.316818 ms
+Sample outputs: 14947751.000000
+Avg time for 1 blocks x 134 threads: 158.519531 ms
+Sample outputs: 15283128.000000
+Avg time for 1 blocks x 135 threads: 157.768799 ms
+Sample outputs: 15465910.000000
+Avg time for 1 blocks x 136 threads: 157.154510 ms
+Sample outputs: 15592832.000000
+Avg time for 1 blocks x 137 threads: 155.453369 ms
+Sample outputs: 15685753.000000
+Avg time for 1 blocks x 138 threads: 154.735657 ms
+Sample outputs: 15746969.000000
+Avg time for 1 blocks x 139 threads: 153.642822 ms
+Sample outputs: 15778805.000000
+Avg time for 1 blocks x 140 threads: 152.538315 ms
+Sample outputs: 15787535.000000
+Avg time for 1 blocks x 141 threads: 151.612030 ms
+Sample outputs: 15778176.000000
+Avg time for 1 blocks x 142 threads: 150.656769 ms
+Sample outputs: 15754066.000000
+Avg time for 1 blocks x 143 threads: 149.725220 ms
+Sample outputs: 15717044.000000
+Avg time for 1 blocks x 144 threads: 148.263718 ms
+Sample outputs: 15671840.000000
+Avg time for 1 blocks x 145 threads: 147.783722 ms
+Sample outputs: 15619989.000000
+Avg time for 1 blocks x 146 threads: 146.846924 ms
+Sample outputs: 15562777.000000
+Avg time for 1 blocks x 147 threads: 145.998062 ms
+Sample outputs: 15499841.000000
+Avg time for 1 blocks x 148 threads: 144.816650 ms
+Sample outputs: 15435610.000000
+Avg time for 1 blocks x 149 threads: 144.041901 ms
+Sample outputs: 15367345.000000
+Avg time for 1 blocks x 150 threads: 143.043777 ms
+Sample outputs: 15298366.000000
+Avg time for 1 blocks x 151 threads: 142.148193 ms
+Sample outputs: 15226228.000000
+Avg time for 1 blocks x 152 threads: 141.042633 ms
+Sample outputs: 15153871.000000
+Avg time for 1 blocks x 153 threads: 140.170593 ms
+Sample outputs: 15081867.000000
+Avg time for 1 blocks x 154 threads: 139.131256 ms
+Sample outputs: 15009532.000000
+Avg time for 1 blocks x 155 threads: 138.181656 ms
+Sample outputs: 14937647.000000
+Avg time for 1 blocks x 156 threads: 137.340073 ms
+Sample outputs: 14863344.000000
+Avg time for 1 blocks x 157 threads: 136.496262 ms
+Sample outputs: 14788855.000000
+Avg time for 1 blocks x 158 threads: 135.723953 ms
+Sample outputs: 14715169.000000
+Avg time for 1 blocks x 159 threads: 134.836594 ms
+Sample outputs: 14642024.000000
+Avg time for 1 blocks x 160 threads: 133.888901 ms
+Sample outputs: 14569643.000000
+Avg time for 1 blocks x 161 threads: 133.159607 ms
+Sample outputs: 14497172.000000
+Avg time for 1 blocks x 162 threads: 132.299911 ms
+Sample outputs: 14425388.000000
+Avg time for 1 blocks x 163 threads: 131.580307 ms
+Sample outputs: 14354008.000000
+Avg time for 1 blocks x 164 threads: 130.604645 ms
+Sample outputs: 14283597.000000
+Avg time for 1 blocks x 165 threads: 129.988190 ms
+Sample outputs: 14211342.000000
+Avg time for 1 blocks x 166 threads: 129.384338 ms
+Sample outputs: 14801263.000000
+Avg time for 1 blocks x 167 threads: 128.716095 ms
+Sample outputs: 15071326.000000
+Avg time for 1 blocks x 168 threads: 127.737122 ms
+Sample outputs: 15219554.000000
+Avg time for 1 blocks x 169 threads: 127.270531 ms
+Sample outputs: 15323025.000000
+Avg time for 1 blocks x 170 threads: 126.498520 ms
+Sample outputs: 15399774.000000
+Avg time for 1 blocks x 171 threads: 126.009155 ms
+Sample outputs: 15450855.000000
+Avg time for 1 blocks x 172 threads: 125.177269 ms
+Sample outputs: 15478256.000000
+Avg time for 1 blocks x 173 threads: 124.552170 ms
+Sample outputs: 15487176.000000
+Avg time for 1 blocks x 174 threads: 123.822281 ms
+Sample outputs: 15481309.000000
+Avg time for 1 blocks x 175 threads: 122.863792 ms
+Sample outputs: 15463203.000000
+Avg time for 1 blocks x 176 threads: 121.762657 ms
+Sample outputs: 15434921.000000
+Avg time for 1 blocks x 177 threads: 121.185791 ms
+Sample outputs: 15399687.000000
+Avg time for 1 blocks x 178 threads: 120.568932 ms
+Sample outputs: 15358788.000000
+Avg time for 1 blocks x 179 threads: 119.782631 ms
+Sample outputs: 15313642.000000
+Avg time for 1 blocks x 180 threads: 119.080528 ms
+Sample outputs: 15263799.000000
+Avg time for 1 blocks x 181 threads: 118.418396 ms
+Sample outputs: 15212632.000000
+Avg time for 1 blocks x 182 threads: 117.675171 ms
+Sample outputs: 15157969.000000
+Avg time for 1 blocks x 183 threads: 117.128113 ms
+Sample outputs: 15102341.000000
+Avg time for 1 blocks x 184 threads: 116.550522 ms
+Sample outputs: 15044386.000000
+Avg time for 1 blocks x 185 threads: 115.856628 ms
+Sample outputs: 14985779.000000
+Avg time for 1 blocks x 186 threads: 115.317444 ms
+Sample outputs: 14927424.000000
+Avg time for 1 blocks x 187 threads: 114.687790 ms
+Sample outputs: 14868703.000000
+Avg time for 1 blocks x 188 threads: 114.002090 ms
+Sample outputs: 14810176.000000
+Avg time for 1 blocks x 189 threads: 113.428871 ms
+Sample outputs: 14749665.000000
+Avg time for 1 blocks x 190 threads: 112.673058 ms
+Sample outputs: 14688678.000000
+Avg time for 1 blocks x 191 threads: 112.175743 ms
+Sample outputs: 14628205.000000
+Avg time for 1 blocks x 192 threads: 111.419296 ms
+Sample outputs: 14568066.000000
+Avg time for 1 blocks x 193 threads: 111.051292 ms
+Sample outputs: 14508590.000000
+Avg time for 1 blocks x 194 threads: 110.543907 ms
+Sample outputs: 14448668.000000
+Avg time for 1 blocks x 195 threads: 110.077599 ms
+Sample outputs: 14389033.000000
+Avg time for 1 blocks x 196 threads: 109.456032 ms
+Sample outputs: 14330179.000000
+Avg time for 1 blocks x 197 threads: 108.816299 ms
+Sample outputs: 14271578.000000
+Avg time for 1 blocks x 198 threads: 108.316299 ms
+Sample outputs: 14211336.000000
+Avg time for 1 blocks x 199 threads: 107.854980 ms
+Sample outputs: 14703496.000000
+Avg time for 1 blocks x 200 threads: 107.314857 ms
+Sample outputs: 14929522.000000
+Avg time for 1 blocks x 201 threads: 106.757370 ms
+Sample outputs: 15053927.000000
+Avg time for 1 blocks x 202 threads: 106.507462 ms
+Sample outputs: 15141339.000000
+Avg time for 1 blocks x 203 threads: 106.046181 ms
+Sample outputs: 15206559.000000
+Avg time for 1 blocks x 204 threads: 105.695999 ms
+Sample outputs: 15250421.000000
+Avg time for 1 blocks x 205 threads: 105.281754 ms
+Sample outputs: 15274486.000000
+Avg time for 1 blocks x 206 threads: 104.796738 ms
+Sample outputs: 15282961.000000
+Avg time for 1 blocks x 207 threads: 104.140335 ms
+Sample outputs: 15278823.000000
+Avg time for 1 blocks x 208 threads: 103.243309 ms
+Sample outputs: 15264855.000000
+Avg time for 1 blocks x 209 threads: 102.974754 ms
+Sample outputs: 15241844.000000
+Avg time for 1 blocks x 210 threads: 102.402184 ms
+Sample outputs: 15213125.000000
+Avg time for 1 blocks x 211 threads: 101.794228 ms
+Sample outputs: 15179489.000000
+Avg time for 1 blocks x 212 threads: 101.240402 ms
+Sample outputs: 15142134.000000
+Avg time for 1 blocks x 213 threads: 100.869499 ms
+Sample outputs: 15100604.000000
+Avg time for 1 blocks x 214 threads: 100.381912 ms
+Sample outputs: 15058036.000000
+Avg time for 1 blocks x 215 threads: 99.994949 ms
+Sample outputs: 15012696.000000
+Avg time for 1 blocks x 216 threads: 99.414467 ms
+Sample outputs: 14966316.000000
+Avg time for 1 blocks x 217 threads: 99.078461 ms
+Sample outputs: 14917660.000000
+Avg time for 1 blocks x 218 threads: 98.626022 ms
+Sample outputs: 14868543.000000
+Avg time for 1 blocks x 219 threads: 98.125259 ms
+Sample outputs: 14819749.000000
+Avg time for 1 blocks x 220 threads: 97.733871 ms
+Sample outputs: 14770126.000000
+Avg time for 1 blocks x 221 threads: 97.482986 ms
+Sample outputs: 14720783.000000
+Avg time for 1 blocks x 222 threads: 96.998451 ms
+Sample outputs: 14669640.000000
+Avg time for 1 blocks x 223 threads: 96.428650 ms
+Sample outputs: 14618021.000000
+Avg time for 1 blocks x 224 threads: 95.831039 ms
+Sample outputs: 14566678.000000
+Avg time for 1 blocks x 225 threads: 95.606529 ms
+Sample outputs: 14515949.000000
+Avg time for 1 blocks x 226 threads: 95.209610 ms
+Sample outputs: 14464994.000000
+Avg time for 1 blocks x 227 threads: 94.764030 ms
+Sample outputs: 14414012.000000
+Avg time for 1 blocks x 228 threads: 94.276176 ms
+Sample outputs: 14363452.000000
+Avg time for 1 blocks x 229 threads: 93.967316 ms
+Sample outputs: 14313043.000000
+Avg time for 1 blocks x 230 threads: 93.586212 ms
+Sample outputs: 14262963.000000
+Avg time for 1 blocks x 231 threads: 93.305305 ms
+Sample outputs: 14211377.000000
+Avg time for 1 blocks x 232 threads: 92.851334 ms
+Sample outputs: 14633492.000000
+Avg time for 1 blocks x 233 threads: 92.638779 ms
+Sample outputs: 14827915.000000
+Avg time for 1 blocks x 234 threads: 92.161758 ms
+Sample outputs: 14935314.000000
+Avg time for 1 blocks x 235 threads: 92.015518 ms
+Sample outputs: 15011096.000000
+Avg time for 1 blocks x 236 threads: 91.625320 ms
+Sample outputs: 15067412.000000
+Avg time for 1 blocks x 237 threads: 91.309036 ms
+Sample outputs: 15105668.000000
+Avg time for 1 blocks x 238 threads: 90.743149 ms
+Sample outputs: 15127062.000000
+Avg time for 1 blocks x 239 threads: 90.218048 ms
+Sample outputs: 15135043.000000
+Avg time for 1 blocks x 240 threads: 89.539589 ms
+Sample outputs: 15132254.000000
+Avg time for 1 blocks x 241 threads: 89.517960 ms
+Sample outputs: 15120395.000000
+Avg time for 1 blocks x 242 threads: 89.297211 ms
+Sample outputs: 15101182.000000
+Avg time for 1 blocks x 243 threads: 89.123688 ms
+Sample outputs: 15076996.000000
+Avg time for 1 blocks x 244 threads: 88.697502 ms
+Sample outputs: 15048617.000000
+Avg time for 1 blocks x 245 threads: 88.468781 ms
+Sample outputs: 15016641.000000
+Avg time for 1 blocks x 246 threads: 88.165054 ms
+Sample outputs: 14981362.000000
+Avg time for 1 blocks x 247 threads: 87.847183 ms
+Sample outputs: 14944965.000000
+Avg time for 1 blocks x 248 threads: 87.217072 ms
+Sample outputs: 14905944.000000
+Avg time for 1 blocks x 249 threads: 87.164108 ms
+Sample outputs: 14866311.000000
+Avg time for 1 blocks x 250 threads: 86.781113 ms
+Sample outputs: 14824615.000000
+Avg time for 1 blocks x 251 threads: 86.458382 ms
+Sample outputs: 14782198.000000
+Avg time for 1 blocks x 252 threads: 86.026779 ms
+Sample outputs: 14740109.000000
+Avg time for 1 blocks x 253 threads: 85.740646 ms
+Sample outputs: 14697287.000000
+Avg time for 1 blocks x 254 threads: 85.299606 ms
+Sample outputs: 14654543.000000
+Avg time for 1 blocks x 255 threads: 84.863548 ms
+Sample outputs: 14610388.000000
+Avg time for 1 blocks x 256 threads: 85.524437 ms
+Sample outputs: 14565620.000000
+Avg time for 1 blocks x 257 threads: 89.136414 ms
+Sample outputs: 14521240.000000
+Avg time for 1 blocks x 258 threads: 88.799347 ms
+Sample outputs: 14476840.000000
+Avg time for 1 blocks x 259 threads: 88.433540 ms
+Sample outputs: 14432872.000000
+Avg time for 1 blocks x 260 threads: 88.070511 ms
+Sample outputs: 14388308.000000
+Avg time for 1 blocks x 261 threads: 87.731277 ms
+Sample outputs: 14344302.000000
+Avg time for 1 blocks x 262 threads: 87.385468 ms
+Sample outputs: 14300229.000000
+Avg time for 1 blocks x 263 threads: 87.026665 ms
+Sample outputs: 14256410.000000
+Avg time for 1 blocks x 264 threads: 86.677444 ms
+Sample outputs: 14211382.000000
+Avg time for 1 blocks x 265 threads: 86.434479 ms
+Sample outputs: 14580955.000000
+Avg time for 1 blocks x 266 threads: 86.176315 ms
+Sample outputs: 14751473.000000
+Avg time for 1 blocks x 267 threads: 85.859390 ms
+Sample outputs: 14845811.000000
+Avg time for 1 blocks x 268 threads: 85.552460 ms
+Sample outputs: 14912409.000000
+Avg time for 1 blocks x 269 threads: 85.239510 ms
+Sample outputs: 14962568.000000
+Avg time for 1 blocks x 270 threads: 84.909988 ms
+Sample outputs: 14996319.000000
+Avg time for 1 blocks x 271 threads: 84.604401 ms
+Sample outputs: 15015762.000000
+Avg time for 1 blocks x 272 threads: 84.289085 ms
+Sample outputs: 15023082.000000
+Avg time for 1 blocks x 273 threads: 83.967850 ms
+Sample outputs: 15020731.000000
+Avg time for 1 blocks x 274 threads: 83.659180 ms
+Sample outputs: 15010929.000000
+Avg time for 1 blocks x 275 threads: 83.372116 ms
+Sample outputs: 14994637.000000
+Avg time for 1 blocks x 276 threads: 83.069168 ms
+Sample outputs: 14973580.000000
+Avg time for 1 blocks x 277 threads: 82.758957 ms
+Sample outputs: 14948738.000000
+Avg time for 1 blocks x 278 threads: 82.453529 ms
+Sample outputs: 14921130.000000
+Avg time for 1 blocks x 279 threads: 82.177269 ms
+Sample outputs: 14890260.000000
+Avg time for 1 blocks x 280 threads: 81.880295 ms
+Sample outputs: 14858386.000000
+Avg time for 1 blocks x 281 threads: 81.587730 ms
+Sample outputs: 14824240.000000
+Avg time for 1 blocks x 282 threads: 81.298904 ms
+Sample outputs: 14789498.000000
+Avg time for 1 blocks x 283 threads: 81.020660 ms
+Sample outputs: 14752918.000000
+Avg time for 1 blocks x 284 threads: 80.731018 ms
+Sample outputs: 14715926.000000
+Avg time for 1 blocks x 285 threads: 80.448135 ms
+Sample outputs: 14678703.000000
+Avg time for 1 blocks x 286 threads: 80.166740 ms
+Sample outputs: 14641181.000000
+Avg time for 1 blocks x 287 threads: 79.881760 ms
+Sample outputs: 14603479.000000
+Avg time for 1 blocks x 288 threads: 79.596939 ms
+Sample outputs: 14564516.000000
+Avg time for 1 blocks x 289 threads: 79.337914 ms
+Sample outputs: 14525249.000000
+Avg time for 1 blocks x 290 threads: 79.060669 ms
+Sample outputs: 14485829.000000
+Avg time for 1 blocks x 291 threads: 78.793373 ms
+Sample outputs: 14446847.000000
+Avg time for 1 blocks x 292 threads: 78.521042 ms
+Sample outputs: 14407867.000000
+Avg time for 1 blocks x 293 threads: 78.244217 ms
+Sample outputs: 14368395.000000
+Avg time for 1 blocks x 294 threads: 77.978386 ms
+Sample outputs: 14329380.000000
+Avg time for 1 blocks x 295 threads: 77.714409 ms
+Sample outputs: 14290290.000000
+Avg time for 1 blocks x 296 threads: 77.449898 ms
+Sample outputs: 14251490.000000
+Avg time for 1 blocks x 297 threads: 77.198006 ms
+Sample outputs: 14211333.000000
+Avg time for 1 blocks x 298 threads: 76.933456 ms
+Sample outputs: 14540012.000000
+Avg time for 1 blocks x 299 threads: 76.673325 ms
+Sample outputs: 14691720.000000
+Avg time for 1 blocks x 300 threads: 76.432785 ms
+Sample outputs: 14776115.000000
+Avg time for 1 blocks x 301 threads: 76.174309 ms
+Sample outputs: 14835492.000000
+Avg time for 1 blocks x 302 threads: 75.922958 ms
+Sample outputs: 14880338.000000
+Avg time for 1 blocks x 303 threads: 75.673447 ms
+Sample outputs: 14910751.000000
+Avg time for 1 blocks x 304 threads: 75.439270 ms
+Sample outputs: 14928485.000000
+Avg time for 1 blocks x 305 threads: 75.169678 ms
+Sample outputs: 14934958.000000
+Avg time for 1 blocks x 306 threads: 74.934105 ms
+Sample outputs: 14933569.000000
+Avg time for 1 blocks x 307 threads: 74.694748 ms
+Sample outputs: 14925161.000000
+Avg time for 1 blocks x 308 threads: 74.444412 ms
+Sample outputs: 14910794.000000
+Avg time for 1 blocks x 309 threads: 74.208099 ms
+Sample outputs: 14892189.000000
+Avg time for 1 blocks x 310 threads: 73.967201 ms
+Sample outputs: 14870325.000000
+Avg time for 1 blocks x 311 threads: 73.733650 ms
+Sample outputs: 14845642.000000
+Avg time for 1 blocks x 312 threads: 73.490746 ms
+Sample outputs: 14818382.000000
+Avg time for 1 blocks x 313 threads: 73.267197 ms
+Sample outputs: 14790275.000000
+Avg time for 1 blocks x 314 threads: 73.025650 ms
+Sample outputs: 14759889.000000
+Avg time for 1 blocks x 315 threads: 72.784760 ms
+Sample outputs: 14728877.000000
+Avg time for 1 blocks x 316 threads: 72.569443 ms
+Sample outputs: 14696428.000000
+Avg time for 1 blocks x 317 threads: 72.333466 ms
+Sample outputs: 14663244.000000
+Avg time for 1 blocks x 318 threads: 72.112717 ms
+Sample outputs: 14630156.000000
+Avg time for 1 blocks x 319 threads: 71.888023 ms
+Sample outputs: 14596755.000000
+Avg time for 1 blocks x 320 threads: 71.650063 ms
+Sample outputs: 14563048.000000
+Avg time for 1 blocks x 321 threads: 71.425606 ms
+Sample outputs: 14528245.000000
+Avg time for 1 blocks x 322 threads: 71.206619 ms
+Sample outputs: 14493089.000000
+Avg time for 1 blocks x 323 threads: 70.997963 ms
+Sample outputs: 14457934.000000
+Avg time for 1 blocks x 324 threads: 70.771538 ms
+Sample outputs: 14422883.000000
+Avg time for 1 blocks x 325 threads: 70.557533 ms
+Sample outputs: 14387785.000000
+Avg time for 1 blocks x 326 threads: 70.333443 ms
+Sample outputs: 14352421.000000
+Avg time for 1 blocks x 327 threads: 70.113541 ms
+Sample outputs: 14317419.000000
+Avg time for 1 blocks x 328 threads: 69.896545 ms
+Sample outputs: 14282276.000000
+Avg time for 1 blocks x 329 threads: 69.704430 ms
+Sample outputs: 14247384.000000
+Avg time for 1 blocks x 330 threads: 69.480827 ms
+Sample outputs: 14211294.000000
+Avg time for 1 blocks x 331 threads: 69.268196 ms
+Sample outputs: 14507189.000000
+Avg time for 1 blocks x 332 threads: 69.071579 ms
+Sample outputs: 14643980.000000
+Avg time for 1 blocks x 333 threads: 68.857391 ms
+Sample outputs: 14719910.000000
+Avg time for 1 blocks x 334 threads: 68.655586 ms
+Sample outputs: 14773976.000000
+Avg time for 1 blocks x 335 threads: 68.451027 ms
+Sample outputs: 14814463.000000
+Avg time for 1 blocks x 336 threads: 68.241959 ms
+Sample outputs: 14842032.000000
+Avg time for 1 blocks x 337 threads: 68.049950 ms
+Sample outputs: 14858207.000000
+Avg time for 1 blocks x 338 threads: 67.849152 ms
+Sample outputs: 14864436.000000
+Avg time for 1 blocks x 339 threads: 67.647476 ms
+Sample outputs: 14863453.000000
+Avg time for 1 blocks x 340 threads: 67.447220 ms
+Sample outputs: 14855937.000000
+Avg time for 1 blocks x 341 threads: 67.248138 ms
+Sample outputs: 14843074.000000
+Avg time for 1 blocks x 342 threads: 67.058090 ms
+Sample outputs: 14826579.000000
+Avg time for 1 blocks x 343 threads: 66.856110 ms
+Sample outputs: 14807002.000000
+Avg time for 1 blocks x 344 threads: 66.667000 ms
+Sample outputs: 14784988.000000
+Avg time for 1 blocks x 345 threads: 66.471573 ms
+Sample outputs: 14760510.000000
+Avg time for 1 blocks x 346 threads: 66.273117 ms
+Sample outputs: 14735005.000000
+Avg time for 1 blocks x 347 threads: 66.081284 ms
+Sample outputs: 14707733.000000
+Avg time for 1 blocks x 348 threads: 65.899216 ms
+Sample outputs: 14680017.000000
+Avg time for 1 blocks x 349 threads: 65.713554 ms
+Sample outputs: 14650679.000000
+Avg time for 1 blocks x 350 threads: 65.509117 ms
+Sample outputs: 14620651.000000
+Avg time for 1 blocks x 351 threads: 65.334557 ms
+Sample outputs: 14591039.000000
+Avg time for 1 blocks x 352 threads: 65.139809 ms
+Sample outputs: 14560571.000000
+Avg time for 1 blocks x 353 threads: 64.961014 ms
+Sample outputs: 14530299.000000
+Avg time for 1 blocks x 354 threads: 64.776932 ms
+Sample outputs: 14498770.000000
+Avg time for 1 blocks x 355 threads: 64.590935 ms
+Sample outputs: 14466758.000000
+Avg time for 1 blocks x 356 threads: 64.418388 ms
+Sample outputs: 14435035.000000
+Avg time for 1 blocks x 357 threads: 64.240906 ms
+Sample outputs: 14403218.000000
+Avg time for 1 blocks x 358 threads: 64.049538 ms
+Sample outputs: 14371565.000000
+Avg time for 1 blocks x 359 threads: 63.871246 ms
+Sample outputs: 14339421.000000
+Avg time for 1 blocks x 360 threads: 63.693916 ms
+Sample outputs: 14307671.000000
+Avg time for 1 blocks x 361 threads: 63.523205 ms
+Sample outputs: 14275811.000000
+Avg time for 1 blocks x 362 threads: 63.346504 ms
+Sample outputs: 14244089.000000
+Avg time for 1 blocks x 363 threads: 63.172356 ms
+Sample outputs: 14211410.000000
+Avg time for 1 blocks x 364 threads: 62.995789 ms
+Sample outputs: 14480415.000000
+Avg time for 1 blocks x 365 threads: 62.824799 ms
+Sample outputs: 14604767.000000
+Avg time for 1 blocks x 366 threads: 62.649639 ms
+Sample outputs: 14674138.000000
+Avg time for 1 blocks x 367 threads: 62.491951 ms
+Sample outputs: 14723370.000000
+Avg time for 1 blocks x 368 threads: 62.320393 ms
+Sample outputs: 14760543.000000
+Avg time for 1 blocks x 369 threads: 62.145489 ms
+Sample outputs: 14785772.000000
+Avg time for 1 blocks x 370 threads: 61.973827 ms
+Sample outputs: 14800430.000000
+Avg time for 1 blocks x 371 threads: 61.816944 ms
+Sample outputs: 14806296.000000
+Avg time for 1 blocks x 372 threads: 61.644367 ms
+Sample outputs: 14805500.000000
+Avg time for 1 blocks x 373 threads: 61.482563 ms
+Sample outputs: 14798921.000000
+Avg time for 1 blocks x 374 threads: 61.320057 ms
+Sample outputs: 14787235.000000
+Avg time for 1 blocks x 375 threads: 61.161823 ms
+Sample outputs: 14772493.000000
+Avg time for 1 blocks x 376 threads: 60.990131 ms
+Sample outputs: 14754639.000000
+Avg time for 1 blocks x 377 threads: 60.833977 ms
+Sample outputs: 14734945.000000
+Avg time for 1 blocks x 378 threads: 60.672508 ms
+Sample outputs: 14712735.000000
+Avg time for 1 blocks x 379 threads: 60.511345 ms
+Sample outputs: 14689418.000000
+Avg time for 1 blocks x 380 threads: 60.357002 ms
+Sample outputs: 14664752.000000
+Avg time for 1 blocks x 381 threads: 60.197338 ms
+Sample outputs: 14639328.000000
+Avg time for 1 blocks x 382 threads: 60.029045 ms
+Sample outputs: 14612697.000000
+Avg time for 1 blocks x 383 threads: 59.874443 ms
+Sample outputs: 14585574.000000
+Avg time for 1 blocks x 384 threads: 59.723408 ms
+Sample outputs: 14558278.000000
+Avg time for 1 blocks x 385 threads: 65.673264 ms
+Sample outputs: 14530647.000000
+Avg time for 1 blocks x 386 threads: 65.495132 ms
+Sample outputs: 14503023.000000
+Avg time for 1 blocks x 387 threads: 65.323273 ms
+Sample outputs: 14474142.000000
+Avg time for 1 blocks x 388 threads: 65.149712 ms
+Sample outputs: 14445121.000000
+Avg time for 1 blocks x 389 threads: 64.975128 ms
+Sample outputs: 14416019.000000
+Avg time for 1 blocks x 390 threads: 64.801865 ms
+Sample outputs: 14386949.000000
+Avg time for 1 blocks x 391 threads: 64.627647 ms
+Sample outputs: 14358136.000000
+Avg time for 1 blocks x 392 threads: 64.456741 ms
+Sample outputs: 14328730.000000
+Avg time for 1 blocks x 393 threads: 64.307976 ms
+Sample outputs: 14299601.000000
+Avg time for 1 blocks x 394 threads: 64.142715 ms
+Sample outputs: 14270454.000000
+Avg time for 1 blocks x 395 threads: 63.973381 ms
+Sample outputs: 14241485.000000
+Avg time for 1 blocks x 396 threads: 63.805847 ms
+Sample outputs: 14211374.000000
+Avg time for 1 blocks x 397 threads: 63.695507 ms
+Sample outputs: 14457993.000000
+Avg time for 1 blocks x 398 threads: 63.545715 ms
+Sample outputs: 14572232.000000
+Avg time for 1 blocks x 399 threads: 63.404701 ms
+Sample outputs: 14636056.000000
+Avg time for 1 blocks x 400 threads: 63.237144 ms
+Sample outputs: 14681114.000000
+Avg time for 1 blocks x 401 threads: 63.069733 ms
+Sample outputs: 14714987.000000
+Avg time for 1 blocks x 402 threads: 62.925110 ms
+Sample outputs: 14738505.000000
+Avg time for 1 blocks x 403 threads: 62.756695 ms
+Sample outputs: 14752187.000000
+Avg time for 1 blocks x 404 threads: 62.610687 ms
+Sample outputs: 14757583.000000
+Avg time for 1 blocks x 405 threads: 62.466270 ms
+Sample outputs: 14756994.000000
+Avg time for 1 blocks x 406 threads: 62.298927 ms
+Sample outputs: 14750921.000000
+Avg time for 1 blocks x 407 threads: 62.152630 ms
+Sample outputs: 14740627.000000
+Avg time for 1 blocks x 408 threads: 62.006519 ms
+Sample outputs: 14727074.000000
+Avg time for 1 blocks x 409 threads: 61.840462 ms
+Sample outputs: 14710837.000000
+Avg time for 1 blocks x 410 threads: 61.694530 ms
+Sample outputs: 14692719.000000
+Avg time for 1 blocks x 411 threads: 61.549938 ms
+Sample outputs: 14672381.000000
+Avg time for 1 blocks x 412 threads: 61.405281 ms
+Sample outputs: 14651297.000000
+Avg time for 1 blocks x 413 threads: 61.238243 ms
+Sample outputs: 14628463.000000
+Avg time for 1 blocks x 414 threads: 61.093697 ms
+Sample outputs: 14605055.000000
+Avg time for 1 blocks x 415 threads: 60.948151 ms
+Sample outputs: 14580667.000000
+Avg time for 1 blocks x 416 threads: 60.801628 ms
+Sample outputs: 14555749.000000
+Avg time for 1 blocks x 417 threads: 60.663563 ms
+Sample outputs: 14530909.000000
+Avg time for 1 blocks x 418 threads: 60.521660 ms
+Sample outputs: 14505403.000000
+Avg time for 1 blocks x 419 threads: 60.377502 ms
+Sample outputs: 14480084.000000
+Avg time for 1 blocks x 420 threads: 60.231255 ms
+Sample outputs: 14453426.000000
+Avg time for 1 blocks x 421 threads: 60.089588 ms
+Sample outputs: 14426670.000000
+Avg time for 1 blocks x 422 threads: 59.945129 ms
+Sample outputs: 14399818.000000
+Avg time for 1 blocks x 423 threads: 59.800301 ms
+Sample outputs: 14373249.000000
+Avg time for 1 blocks x 424 threads: 59.677074 ms
+Sample outputs: 14346590.000000
+Avg time for 1 blocks x 425 threads: 59.533375 ms
+Sample outputs: 14319592.000000
+Avg time for 1 blocks x 426 threads: 59.387047 ms
+Sample outputs: 14292700.000000
+Avg time for 1 blocks x 427 threads: 59.247002 ms
+Sample outputs: 14265718.000000
+Avg time for 1 blocks x 428 threads: 59.103138 ms
+Sample outputs: 14239114.000000
+Avg time for 1 blocks x 429 threads: 58.978920 ms
+Sample outputs: 14211219.000000
+Avg time for 1 blocks x 430 threads: 58.832947 ms
+Sample outputs: 14439112.000000
+Avg time for 1 blocks x 431 threads: 58.691628 ms
+Sample outputs: 14544410.000000
+Avg time for 1 blocks x 432 threads: 58.571045 ms
+Sample outputs: 14603557.000000
+Avg time for 1 blocks x 433 threads: 58.428993 ms
+Sample outputs: 14645211.000000
+Avg time for 1 blocks x 434 threads: 58.302929 ms
+Sample outputs: 14676856.000000
+Avg time for 1 blocks x 435 threads: 58.160686 ms
+Sample outputs: 14698419.000000
+Avg time for 1 blocks x 436 threads: 58.021629 ms
+Sample outputs: 14711104.000000
+Avg time for 1 blocks x 437 threads: 57.895241 ms
+Sample outputs: 14716434.000000
+Avg time for 1 blocks x 438 threads: 57.772602 ms
+Sample outputs: 14715988.000000
+Avg time for 1 blocks x 439 threads: 57.632038 ms
+Sample outputs: 14710459.000000
+Avg time for 1 blocks x 440 threads: 57.509045 ms
+Sample outputs: 14700844.000000
+Avg time for 1 blocks x 441 threads: 57.366047 ms
+Sample outputs: 14688251.000000
+Avg time for 1 blocks x 442 threads: 57.243279 ms
+Sample outputs: 14673535.000000
+Avg time for 1 blocks x 443 threads: 57.103035 ms
+Sample outputs: 14656708.000000
+Avg time for 1 blocks x 444 threads: 56.980358 ms
+Sample outputs: 14637872.000000
+Avg time for 1 blocks x 445 threads: 56.858582 ms
+Sample outputs: 14618529.000000
+Avg time for 1 blocks x 446 threads: 56.734001 ms
+Sample outputs: 14597575.000000
+Avg time for 1 blocks x 447 threads: 56.595238 ms
+Sample outputs: 14575937.000000
+Avg time for 1 blocks x 448 threads: 56.475819 ms
+Sample outputs: 14553414.000000
+Avg time for 1 blocks x 449 threads: 56.359245 ms
+Sample outputs: 14530363.000000
+Avg time for 1 blocks x 450 threads: 56.236286 ms
+Sample outputs: 14507453.000000
+Avg time for 1 blocks x 451 threads: 56.112354 ms
+Sample outputs: 14483858.000000
+Avg time for 1 blocks x 452 threads: 55.976074 ms
+Sample outputs: 14460227.000000
+Avg time for 1 blocks x 453 threads: 55.852165 ms
+Sample outputs: 14435829.000000
+Avg time for 1 blocks x 454 threads: 55.730865 ms
+Sample outputs: 14410967.000000
+Avg time for 1 blocks x 455 threads: 55.609131 ms
+Sample outputs: 14386158.000000
+Avg time for 1 blocks x 456 threads: 55.488789 ms
+Sample outputs: 14361427.000000
+Avg time for 1 blocks x 457 threads: 55.368031 ms
+Sample outputs: 14336735.000000
+Avg time for 1 blocks x 458 threads: 55.247753 ms
+Sample outputs: 14311735.000000
+Avg time for 1 blocks x 459 threads: 55.127178 ms
+Sample outputs: 14286782.000000
+Avg time for 1 blocks x 460 threads: 55.006660 ms
+Sample outputs: 14261843.000000
+Avg time for 1 blocks x 461 threads: 54.887001 ms
+Sample outputs: 14236858.000000
+Avg time for 1 blocks x 462 threads: 54.766399 ms
+Sample outputs: 14211128.000000
+Avg time for 1 blocks x 463 threads: 54.645802 ms
+Sample outputs: 14422767.000000
+Avg time for 1 blocks x 464 threads: 54.526520 ms
+Sample outputs: 14520638.000000
+Avg time for 1 blocks x 465 threads: 54.423653 ms
+Sample outputs: 14575589.000000
+Avg time for 1 blocks x 466 threads: 54.304890 ms
+Sample outputs: 14614515.000000
+Avg time for 1 blocks x 467 threads: 54.186882 ms
+Sample outputs: 14643838.000000
+Avg time for 1 blocks x 468 threads: 54.067211 ms
+Sample outputs: 14664054.000000
+Avg time for 1 blocks x 469 threads: 53.946693 ms
+Sample outputs: 14675815.000000
+Avg time for 1 blocks x 470 threads: 53.844635 ms
+Sample outputs: 14681075.000000
+Avg time for 1 blocks x 471 threads: 53.728828 ms
+Sample outputs: 14680307.000000
+Avg time for 1 blocks x 472 threads: 53.609535 ms
+Sample outputs: 14675269.000000
+Avg time for 1 blocks x 473 threads: 53.489769 ms
+Sample outputs: 14666563.000000
+Avg time for 1 blocks x 474 threads: 53.389050 ms
+Sample outputs: 14655037.000000
+Avg time for 1 blocks x 475 threads: 53.270027 ms
+Sample outputs: 14641314.000000
+Avg time for 1 blocks x 476 threads: 53.152565 ms
+Sample outputs: 14625625.000000
+Avg time for 1 blocks x 477 threads: 53.053173 ms
+Sample outputs: 14608309.000000
+Avg time for 1 blocks x 478 threads: 52.933899 ms
+Sample outputs: 14590224.000000
+Avg time for 1 blocks x 479 threads: 52.830620 ms
+Sample outputs: 14571001.000000
+Avg time for 1 blocks x 480 threads: 52.718731 ms
+Sample outputs: 14550856.000000
+Avg time for 1 blocks x 481 threads: 52.601799 ms
+Sample outputs: 14529882.000000
+Avg time for 1 blocks x 482 threads: 52.501366 ms
+Sample outputs: 14508420.000000
+Avg time for 1 blocks x 483 threads: 52.383614 ms
+Sample outputs: 14487001.000000
+Avg time for 1 blocks x 484 threads: 52.285442 ms
+Sample outputs: 14465144.000000
+Avg time for 1 blocks x 485 threads: 52.183178 ms
+Sample outputs: 14443404.000000
+Avg time for 1 blocks x 486 threads: 52.067738 ms
+Sample outputs: 14420543.000000
+Avg time for 1 blocks x 487 threads: 51.970192 ms
+Sample outputs: 14397333.000000
+Avg time for 1 blocks x 488 threads: 51.851074 ms
+Sample outputs: 14374317.000000
+Avg time for 1 blocks x 489 threads: 51.753639 ms
+Sample outputs: 14351259.000000
+Avg time for 1 blocks x 490 threads: 51.635826 ms
+Sample outputs: 14328259.000000
+Avg time for 1 blocks x 491 threads: 51.538383 ms
+Sample outputs: 14304835.000000
+Avg time for 1 blocks x 492 threads: 51.446270 ms
+Sample outputs: 14281662.000000
+Avg time for 1 blocks x 493 threads: 51.322681 ms
+Sample outputs: 14258302.000000
+Avg time for 1 blocks x 494 threads: 51.223877 ms
+Sample outputs: 14235275.000000
+Avg time for 1 blocks x 495 threads: 51.126862 ms
+Sample outputs: 14211046.000000
+Avg time for 1 blocks x 496 threads: 51.025036 ms
+Sample outputs: 14408554.000000
+Avg time for 1 blocks x 497 threads: 50.911869 ms
+Sample outputs: 14500021.000000
+Avg time for 1 blocks x 498 threads: 50.812859 ms
+Sample outputs: 14551347.000000
+Avg time for 1 blocks x 499 threads: 50.715416 ms
+Sample outputs: 14587809.000000
+Avg time for 1 blocks x 500 threads: 50.618679 ms
+Sample outputs: 14615429.000000
+Avg time for 1 blocks x 501 threads: 50.503002 ms
+Sample outputs: 14634078.000000
+Avg time for 1 blocks x 502 threads: 50.403553 ms
+Sample outputs: 14645326.000000
+Avg time for 1 blocks x 503 threads: 50.308102 ms
+Sample outputs: 14650011.000000
+Avg time for 1 blocks x 504 threads: 50.210350 ms
+Sample outputs: 14649720.000000
+Avg time for 1 blocks x 505 threads: 50.113190 ms
+Sample outputs: 14645088.000000
+Avg time for 1 blocks x 506 threads: 50.016788 ms
+Sample outputs: 14636928.000000
+Avg time for 1 blocks x 507 threads: 49.919914 ms
+Sample outputs: 14626088.000000
+Avg time for 1 blocks x 508 threads: 49.820274 ms
+Sample outputs: 14613264.000000
+Avg time for 1 blocks x 509 threads: 49.723125 ms
+Sample outputs: 14598963.000000
+Avg time for 1 blocks x 510 threads: 49.626740 ms
+Sample outputs: 14582805.000000
+Avg time for 1 blocks x 511 threads: 49.529778 ms
+Sample outputs: 14565964.000000
+Avg time for 1 blocks x 512 threads: 49.421906 ms
+Sample outputs: 14547647.000000
+Avg time for 1 blocks x 513 threads: 54.760193 ms
+Sample outputs: 14529229.000000
+Avg time for 1 blocks x 514 threads: 54.656075 ms
+Sample outputs: 14509582.000000
+Avg time for 1 blocks x 515 threads: 54.548637 ms
+Sample outputs: 14489592.000000
+Avg time for 1 blocks x 516 threads: 54.439991 ms
+Sample outputs: 14469360.000000
+Avg time for 1 blocks x 517 threads: 54.333244 ms
+Sample outputs: 14449023.000000
+Avg time for 1 blocks x 518 threads: 54.227165 ms
+Sample outputs: 14428655.000000
+Avg time for 1 blocks x 519 threads: 54.118561 ms
+Sample outputs: 14407160.000000
+Avg time for 1 blocks x 520 threads: 54.012032 ms
+Sample outputs: 14385689.000000
+Avg time for 1 blocks x 521 threads: 53.903057 ms
+Sample outputs: 14364048.000000
+Avg time for 1 blocks x 522 threads: 53.799122 ms
+Sample outputs: 14342534.000000
+Avg time for 1 blocks x 523 threads: 53.691700 ms
+Sample outputs: 14320836.000000
+Avg time for 1 blocks x 524 threads: 53.605663 ms
+Sample outputs: 14299059.000000
+Avg time for 1 blocks x 525 threads: 53.500710 ms
+Sample outputs: 14277305.000000
+Avg time for 1 blocks x 526 threads: 53.394970 ms
+Sample outputs: 14255357.000000
+Avg time for 1 blocks x 527 threads: 53.288872 ms
+Sample outputs: 14233889.000000
+Avg time for 1 blocks x 528 threads: 53.185059 ms
+Sample outputs: 14211123.000000
+Avg time for 1 blocks x 529 threads: 53.127178 ms
+Sample outputs: 14396276.000000
+Avg time for 1 blocks x 530 threads: 53.045692 ms
+Sample outputs: 14482177.000000
+Avg time for 1 blocks x 531 threads: 52.944672 ms
+Sample outputs: 14530279.000000
+Avg time for 1 blocks x 532 threads: 52.862068 ms
+Sample outputs: 14564515.000000
+Avg time for 1 blocks x 533 threads: 52.759258 ms
+Sample outputs: 14590167.000000
+Avg time for 1 blocks x 534 threads: 52.653664 ms
+Sample outputs: 14608147.000000
+Avg time for 1 blocks x 535 threads: 52.545887 ms
+Sample outputs: 14618621.000000
+Avg time for 1 blocks x 536 threads: 52.462273 ms
+Sample outputs: 14623167.000000
+Avg time for 1 blocks x 537 threads: 52.355141 ms
+Sample outputs: 14622840.000000
+Avg time for 1 blocks x 538 threads: 52.274757 ms
+Sample outputs: 14618750.000000
+Avg time for 1 blocks x 539 threads: 52.168488 ms
+Sample outputs: 14610841.000000
+Avg time for 1 blocks x 540 threads: 52.064320 ms
+Sample outputs: 14600805.000000
+Avg time for 1 blocks x 541 threads: 51.973686 ms
+Sample outputs: 14588846.000000
+Avg time for 1 blocks x 542 threads: 51.875938 ms
+Sample outputs: 14575266.000000
+Avg time for 1 blocks x 543 threads: 51.793499 ms
+Sample outputs: 14560295.000000
+Avg time for 1 blocks x 544 threads: 51.690346 ms
+Sample outputs: 14544340.000000
+Avg time for 1 blocks x 545 threads: 51.589123 ms
+Sample outputs: 14527381.000000
+Avg time for 1 blocks x 546 threads: 51.501122 ms
+Sample outputs: 14509906.000000
+Avg time for 1 blocks x 547 threads: 51.400623 ms
+Sample outputs: 14491428.000000
+Avg time for 1 blocks x 548 threads: 51.315784 ms
+Sample outputs: 14472785.000000
+Avg time for 1 blocks x 549 threads: 51.211433 ms
+Sample outputs: 14453939.000000
+Avg time for 1 blocks x 550 threads: 51.128441 ms
+Sample outputs: 14434842.000000
+Avg time for 1 blocks x 551 threads: 51.043591 ms
+Sample outputs: 14415655.000000
+Avg time for 1 blocks x 552 threads: 50.937088 ms
+Sample outputs: 14395458.000000
+Avg time for 1 blocks x 553 threads: 50.852360 ms
+Sample outputs: 14375313.000000
+Avg time for 1 blocks x 554 threads: 50.755142 ms
+Sample outputs: 14355057.000000
+Avg time for 1 blocks x 555 threads: 50.670940 ms
+Sample outputs: 14334764.000000
+Avg time for 1 blocks x 556 threads: 50.568558 ms
+Sample outputs: 14314388.000000
+Avg time for 1 blocks x 557 threads: 50.484852 ms
+Sample outputs: 14293956.000000
+Avg time for 1 blocks x 558 threads: 50.397728 ms
+Sample outputs: 14273299.000000
+Avg time for 1 blocks x 559 threads: 50.298038 ms
+Sample outputs: 14252797.000000
+Avg time for 1 blocks x 560 threads: 50.218128 ms
+Sample outputs: 14232498.000000
+Avg time for 1 blocks x 561 threads: 50.133495 ms
+Sample outputs: 14211221.000000
+Avg time for 1 blocks x 562 threads: 50.029877 ms
+Sample outputs: 14385495.000000
+Avg time for 1 blocks x 563 threads: 49.948277 ms
+Sample outputs: 14466354.000000
+Avg time for 1 blocks x 564 threads: 49.867420 ms
+Sample outputs: 14511679.000000
+Avg time for 1 blocks x 565 threads: 49.763752 ms
+Sample outputs: 14543766.000000
+Avg time for 1 blocks x 566 threads: 49.680855 ms
+Sample outputs: 14568206.000000
+Avg time for 1 blocks x 567 threads: 49.600487 ms
+Sample outputs: 14585005.000000
+Avg time for 1 blocks x 568 threads: 49.519127 ms
+Sample outputs: 14595174.000000
+Avg time for 1 blocks x 569 threads: 49.414131 ms
+Sample outputs: 14599295.000000
+Avg time for 1 blocks x 570 threads: 49.331238 ms
+Sample outputs: 14599132.000000
+Avg time for 1 blocks x 571 threads: 49.252129 ms
+Sample outputs: 14595086.000000
+Avg time for 1 blocks x 572 threads: 49.168705 ms
+Sample outputs: 14587875.000000
+Avg time for 1 blocks x 573 threads: 49.070866 ms
+Sample outputs: 14578224.000000
+Avg time for 1 blocks x 574 threads: 48.988056 ms
+Sample outputs: 14567019.000000
+Avg time for 1 blocks x 575 threads: 48.901543 ms
+Sample outputs: 14554351.000000
+Avg time for 1 blocks x 576 threads: 48.824039 ms
+Sample outputs: 14540158.000000
+Avg time for 1 blocks x 577 threads: 48.744553 ms
+Sample outputs: 14525377.000000
+Avg time for 1 blocks x 578 threads: 48.662891 ms
+Sample outputs: 14509440.000000
+Avg time for 1 blocks x 579 threads: 48.577950 ms
+Sample outputs: 14493066.000000
+Avg time for 1 blocks x 580 threads: 48.481365 ms
+Sample outputs: 14475563.000000
+Avg time for 1 blocks x 581 threads: 48.400394 ms
+Sample outputs: 14457943.000000
+Avg time for 1 blocks x 582 threads: 48.317390 ms
+Sample outputs: 14440075.000000
+Avg time for 1 blocks x 583 threads: 48.233067 ms
+Sample outputs: 14422179.000000
+Avg time for 1 blocks x 584 threads: 48.154510 ms
+Sample outputs: 14404008.000000
+Avg time for 1 blocks x 585 threads: 48.071442 ms
+Sample outputs: 14385214.000000
+Avg time for 1 blocks x 586 threads: 47.993492 ms
+Sample outputs: 14366142.000000
+Avg time for 1 blocks x 587 threads: 47.911388 ms
+Sample outputs: 14346928.000000
+Avg time for 1 blocks x 588 threads: 47.833607 ms
+Sample outputs: 14327932.000000
+Avg time for 1 blocks x 589 threads: 47.752056 ms
+Sample outputs: 14308696.000000
+Avg time for 1 blocks x 590 threads: 47.669994 ms
+Sample outputs: 14289375.000000
+Avg time for 1 blocks x 591 threads: 47.589012 ms
+Sample outputs: 14270010.000000
+Avg time for 1 blocks x 592 threads: 47.507137 ms
+Sample outputs: 14250608.000000
+Avg time for 1 blocks x 593 threads: 47.425190 ms
+Sample outputs: 14231386.000000
+Avg time for 1 blocks x 594 threads: 47.348030 ms
+Sample outputs: 14211276.000000
+Avg time for 1 blocks x 595 threads: 47.267334 ms
+Sample outputs: 14375911.000000
+Avg time for 1 blocks x 596 threads: 47.188824 ms
+Sample outputs: 14452255.000000
+Avg time for 1 blocks x 597 threads: 47.109962 ms
+Sample outputs: 14495177.000000
+Avg time for 1 blocks x 598 threads: 47.031563 ms
+Sample outputs: 14525496.000000
+Avg time for 1 blocks x 599 threads: 46.950722 ms
+Sample outputs: 14548508.000000
+Avg time for 1 blocks x 600 threads: 46.869812 ms
+Sample outputs: 14564664.000000
+Avg time for 1 blocks x 601 threads: 46.789860 ms
+Sample outputs: 14574030.000000
+Avg time for 1 blocks x 602 threads: 46.711235 ms
+Sample outputs: 14577910.000000
+Avg time for 1 blocks x 603 threads: 46.632050 ms
+Sample outputs: 14577806.000000
+Avg time for 1 blocks x 604 threads: 46.565430 ms
+Sample outputs: 14574173.000000
+Avg time for 1 blocks x 605 threads: 46.490585 ms
+Sample outputs: 14567550.000000
+Avg time for 1 blocks x 606 threads: 46.413036 ms
+Sample outputs: 14558479.000000
+Avg time for 1 blocks x 607 threads: 46.331566 ms
+Sample outputs: 14547817.000000
+Avg time for 1 blocks x 608 threads: 46.254524 ms
+Sample outputs: 14535816.000000
+Avg time for 1 blocks x 609 threads: 46.177189 ms
+Sample outputs: 14522352.000000
+Avg time for 1 blocks x 610 threads: 46.098335 ms
+Sample outputs: 14508362.000000
+Avg time for 1 blocks x 611 threads: 46.036335 ms
+Sample outputs: 14493354.000000
+Avg time for 1 blocks x 612 threads: 45.958946 ms
+Sample outputs: 14477814.000000
+Avg time for 1 blocks x 613 threads: 45.878551 ms
+Sample outputs: 14461452.000000
+Avg time for 1 blocks x 614 threads: 45.801231 ms
+Sample outputs: 14444749.000000
+Avg time for 1 blocks x 615 threads: 45.739388 ms
+Sample outputs: 14427971.000000
+Avg time for 1 blocks x 616 threads: 45.661835 ms
+Sample outputs: 14410988.000000
+Avg time for 1 blocks x 617 threads: 45.583466 ms
+Sample outputs: 14393814.000000
+Avg time for 1 blocks x 618 threads: 45.506153 ms
+Sample outputs: 14376051.000000
+Avg time for 1 blocks x 619 threads: 45.427944 ms
+Sample outputs: 14358010.000000
+Avg time for 1 blocks x 620 threads: 45.367779 ms
+Sample outputs: 14339875.000000
+Avg time for 1 blocks x 621 threads: 45.289726 ms
+Sample outputs: 14321664.000000
+Avg time for 1 blocks x 622 threads: 45.212803 ms
+Sample outputs: 14303703.000000
+Avg time for 1 blocks x 623 threads: 45.151180 ms
+Sample outputs: 14285257.000000
+Avg time for 1 blocks x 624 threads: 45.075127 ms
+Sample outputs: 14266862.000000
+Avg time for 1 blocks x 625 threads: 44.997597 ms
+Sample outputs: 14248464.000000
+Avg time for 1 blocks x 626 threads: 44.934505 ms
+Sample outputs: 14230300.000000
+Avg time for 1 blocks x 627 threads: 44.859356 ms
+Sample outputs: 14211297.000000
+Avg time for 1 blocks x 628 threads: 44.782394 ms
+Sample outputs: 14367407.000000
+Avg time for 1 blocks x 629 threads: 44.720364 ms
+Sample outputs: 14439551.000000
+Avg time for 1 blocks x 630 threads: 44.645920 ms
+Sample outputs: 14480171.000000
+Avg time for 1 blocks x 631 threads: 44.566109 ms
+Sample outputs: 14508892.000000
+Avg time for 1 blocks x 632 threads: 44.507603 ms
+Sample outputs: 14531071.000000
+Avg time for 1 blocks x 633 threads: 44.433475 ms
+Sample outputs: 14546116.000000
+Avg time for 1 blocks x 634 threads: 44.355740 ms
+Sample outputs: 14555238.000000
+Avg time for 1 blocks x 635 threads: 44.295174 ms
+Sample outputs: 14559116.000000
+Avg time for 1 blocks x 636 threads: 44.217575 ms
+Sample outputs: 14558968.000000
+Avg time for 1 blocks x 637 threads: 44.161926 ms
+Sample outputs: 14555632.000000
+Avg time for 1 blocks x 638 threads: 44.083942 ms
+Sample outputs: 14549117.000000
+Avg time for 1 blocks x 639 threads: 44.007851 ms
+Sample outputs: 14540551.000000
+Avg time for 1 blocks x 640 threads: 43.948570 ms
+Sample outputs: 14530545.000000
+Avg time for 1 blocks x 641 threads: 49.408623 ms
+Sample outputs: 14519212.000000
+Avg time for 1 blocks x 642 threads: 49.341118 ms
+Sample outputs: 14506457.000000
+Avg time for 1 blocks x 643 threads: 49.254616 ms
+Sample outputs: 14493147.000000
+Avg time for 1 blocks x 644 threads: 49.187401 ms
+Sample outputs: 14479065.000000
+Avg time for 1 blocks x 645 threads: 49.101875 ms
+Sample outputs: 14464180.000000
+Avg time for 1 blocks x 646 threads: 49.035191 ms
+Sample outputs: 14448711.000000
+Avg time for 1 blocks x 647 threads: 48.952797 ms
+Sample outputs: 14432877.000000
+Avg time for 1 blocks x 648 threads: 48.885826 ms
+Sample outputs: 14417054.000000
+Avg time for 1 blocks x 649 threads: 48.799564 ms
+Sample outputs: 14400832.000000
+Avg time for 1 blocks x 650 threads: 48.731934 ms
+Sample outputs: 14384560.000000
+Avg time for 1 blocks x 651 threads: 48.649231 ms
+Sample outputs: 14367689.000000
+Avg time for 1 blocks x 652 threads: 48.586311 ms
+Sample outputs: 14350463.000000
+Avg time for 1 blocks x 653 threads: 48.499626 ms
+Sample outputs: 14333368.000000
+Avg time for 1 blocks x 654 threads: 48.432110 ms
+Sample outputs: 14316249.000000
+Avg time for 1 blocks x 655 threads: 48.352383 ms
+Sample outputs: 14299043.000000
+Avg time for 1 blocks x 656 threads: 48.288162 ms
+Sample outputs: 14281516.000000
+Avg time for 1 blocks x 657 threads: 48.221153 ms
+Sample outputs: 14264262.000000
+Avg time for 1 blocks x 658 threads: 48.136768 ms
+Sample outputs: 14246736.000000
+Avg time for 1 blocks x 659 threads: 48.067745 ms
+Sample outputs: 14229504.000000
+Avg time for 1 blocks x 660 threads: 47.985126 ms
+Sample outputs: 14211351.000000
+Avg time for 1 blocks x 661 threads: 47.952332 ms
+Sample outputs: 14359465.000000
+Avg time for 1 blocks x 662 threads: 47.885384 ms
+Sample outputs: 14428236.000000
+Avg time for 1 blocks x 663 threads: 47.823666 ms
+Sample outputs: 14466925.000000
+Avg time for 1 blocks x 664 threads: 47.760811 ms
+Sample outputs: 14494355.000000
+Avg time for 1 blocks x 665 threads: 47.680840 ms
+Sample outputs: 14515248.000000
+Avg time for 1 blocks x 666 threads: 47.610565 ms
+Sample outputs: 14529528.000000
+Avg time for 1 blocks x 667 threads: 47.544861 ms
+Sample outputs: 14538290.000000
+Avg time for 1 blocks x 668 threads: 47.464531 ms
+Sample outputs: 14541855.000000
+Avg time for 1 blocks x 669 threads: 47.401733 ms
+Sample outputs: 14541802.000000
+Avg time for 1 blocks x 670 threads: 47.336159 ms
+Sample outputs: 14538485.000000
+Avg time for 1 blocks x 671 threads: 47.253620 ms
+Sample outputs: 14532437.000000
+Avg time for 1 blocks x 672 threads: 47.189991 ms
+Sample outputs: 14524415.000000
+Avg time for 1 blocks x 673 threads: 47.126244 ms
+Sample outputs: 14515091.000000
+Avg time for 1 blocks x 674 threads: 47.046295 ms
+Sample outputs: 14504174.000000
+Avg time for 1 blocks x 675 threads: 46.982590 ms
+Sample outputs: 14492031.000000
+Avg time for 1 blocks x 676 threads: 46.918526 ms
+Sample outputs: 14479414.000000
+Avg time for 1 blocks x 677 threads: 46.833160 ms
+Sample outputs: 14465869.000000
+Avg time for 1 blocks x 678 threads: 46.769962 ms
+Sample outputs: 14451859.000000
+Avg time for 1 blocks x 679 threads: 46.708214 ms
+Sample outputs: 14437120.000000
+Avg time for 1 blocks x 680 threads: 46.645782 ms
+Sample outputs: 14422160.000000
+Avg time for 1 blocks x 681 threads: 46.562458 ms
+Sample outputs: 14407016.000000
+Avg time for 1 blocks x 682 threads: 46.497814 ms
+Sample outputs: 14391742.000000
+Avg time for 1 blocks x 683 threads: 46.436260 ms
+Sample outputs: 14376373.000000
+Avg time for 1 blocks x 684 threads: 46.371487 ms
+Sample outputs: 14360264.000000
+Avg time for 1 blocks x 685 threads: 46.294289 ms
+Sample outputs: 14343736.000000
+Avg time for 1 blocks x 686 threads: 46.226509 ms
+Sample outputs: 14327571.000000
+Avg time for 1 blocks x 687 threads: 46.164898 ms
+Sample outputs: 14311209.000000
+Avg time for 1 blocks x 688 threads: 46.101387 ms
+Sample outputs: 14294683.000000
+Avg time for 1 blocks x 689 threads: 46.016880 ms
+Sample outputs: 14278157.000000
+Avg time for 1 blocks x 690 threads: 45.955467 ms
+Sample outputs: 14261675.000000
+Avg time for 1 blocks x 691 threads: 45.891502 ms
+Sample outputs: 14244834.000000
+Avg time for 1 blocks x 692 threads: 45.833290 ms
+Sample outputs: 14228352.000000
+Avg time for 1 blocks x 693 threads: 45.768414 ms
+Sample outputs: 14211278.000000
+Avg time for 1 blocks x 694 threads: 45.686947 ms
+Sample outputs: 14352534.000000
+Avg time for 1 blocks x 695 threads: 45.627052 ms
+Sample outputs: 14417952.000000
+Avg time for 1 blocks x 696 threads: 45.562916 ms
+Sample outputs: 14454737.000000
+Avg time for 1 blocks x 697 threads: 45.501183 ms
+Sample outputs: 14480895.000000
+Avg time for 1 blocks x 698 threads: 45.438957 ms
+Sample outputs: 14500948.000000
+Avg time for 1 blocks x 699 threads: 45.380062 ms
+Sample outputs: 14514691.000000
+Avg time for 1 blocks x 700 threads: 45.299595 ms
+Sample outputs: 14522767.000000
+Avg time for 1 blocks x 701 threads: 45.235142 ms
+Sample outputs: 14526286.000000
+Avg time for 1 blocks x 702 threads: 45.181519 ms
+Sample outputs: 14526110.000000
+Avg time for 1 blocks x 703 threads: 45.110203 ms
+Sample outputs: 14523132.000000
+Avg time for 1 blocks x 704 threads: 45.047661 ms
+Sample outputs: 14517327.000000
+Avg time for 1 blocks x 705 threads: 44.986622 ms
+Sample outputs: 14509889.000000
+Avg time for 1 blocks x 706 threads: 44.925571 ms
+Sample outputs: 14500748.000000
+Avg time for 1 blocks x 707 threads: 44.863914 ms
+Sample outputs: 14490497.000000
+Avg time for 1 blocks x 708 threads: 44.802509 ms
+Sample outputs: 14478924.000000
+Avg time for 1 blocks x 709 threads: 44.726612 ms
+Sample outputs: 14466896.000000
+Avg time for 1 blocks x 710 threads: 44.659481 ms
+Sample outputs: 14453978.000000
+Avg time for 1 blocks x 711 threads: 44.600662 ms
+Sample outputs: 14440622.000000
+Avg time for 1 blocks x 712 threads: 44.536350 ms
+Sample outputs: 14426571.000000
+Avg time for 1 blocks x 713 threads: 44.477272 ms
+Sample outputs: 14412277.000000
+Avg time for 1 blocks x 714 threads: 44.418888 ms
+Sample outputs: 14397893.000000
+Avg time for 1 blocks x 715 threads: 44.355915 ms
+Sample outputs: 14383336.000000
+Avg time for 1 blocks x 716 threads: 44.294945 ms
+Sample outputs: 14368675.000000
+Avg time for 1 blocks x 717 threads: 44.231796 ms
+Sample outputs: 14353289.000000
+Avg time for 1 blocks x 718 threads: 44.174309 ms
+Sample outputs: 14337633.000000
+Avg time for 1 blocks x 719 threads: 44.112507 ms
+Sample outputs: 14322216.000000
+Avg time for 1 blocks x 720 threads: 44.051765 ms
+Sample outputs: 14306509.000000
+Avg time for 1 blocks x 721 threads: 43.989300 ms
+Sample outputs: 14291034.000000
+Avg time for 1 blocks x 722 threads: 43.928539 ms
+Sample outputs: 14274982.000000
+Avg time for 1 blocks x 723 threads: 43.869122 ms
+Sample outputs: 14259268.000000
+Avg time for 1 blocks x 724 threads: 43.808098 ms
+Sample outputs: 14243323.000000
+Avg time for 1 blocks x 725 threads: 43.746510 ms
+Sample outputs: 14227559.000000
+Avg time for 1 blocks x 726 threads: 43.685249 ms
+Sample outputs: 14211244.000000
+Avg time for 1 blocks x 727 threads: 43.623753 ms
+Sample outputs: 14346212.000000
+Avg time for 1 blocks x 728 threads: 43.562786 ms
+Sample outputs: 14408474.000000
+Avg time for 1 blocks x 729 threads: 43.507030 ms
+Sample outputs: 14443684.000000
+Avg time for 1 blocks x 730 threads: 43.447395 ms
+Sample outputs: 14468504.000000
+Avg time for 1 blocks x 731 threads: 43.388668 ms
+Sample outputs: 14487663.000000
+Avg time for 1 blocks x 732 threads: 43.327934 ms
+Sample outputs: 14500733.000000
+Avg time for 1 blocks x 733 threads: 43.269733 ms
+Sample outputs: 14508679.000000
+Avg time for 1 blocks x 734 threads: 43.208225 ms
+Sample outputs: 14512031.000000
+Avg time for 1 blocks x 735 threads: 43.148788 ms
+Sample outputs: 14512083.000000
+Avg time for 1 blocks x 736 threads: 43.087822 ms
+Sample outputs: 14509080.000000
+Avg time for 1 blocks x 737 threads: 43.028442 ms
+Sample outputs: 14503578.000000
+Avg time for 1 blocks x 738 threads: 42.971031 ms
+Sample outputs: 14496383.000000
+Avg time for 1 blocks x 739 threads: 42.911663 ms
+Sample outputs: 14487807.000000
+Avg time for 1 blocks x 740 threads: 42.851879 ms
+Sample outputs: 14478032.000000
+Avg time for 1 blocks x 741 threads: 42.808662 ms
+Sample outputs: 14466931.000000
+Avg time for 1 blocks x 742 threads: 42.750175 ms
+Sample outputs: 14455424.000000
+Avg time for 1 blocks x 743 threads: 42.693924 ms
+Sample outputs: 14443328.000000
+Avg time for 1 blocks x 744 threads: 42.630077 ms
+Sample outputs: 14430574.000000
+Avg time for 1 blocks x 745 threads: 42.573963 ms
+Sample outputs: 14416875.000000
+Avg time for 1 blocks x 746 threads: 42.514679 ms
+Sample outputs: 14403340.000000
+Avg time for 1 blocks x 747 threads: 42.455482 ms
+Sample outputs: 14389738.000000
+Avg time for 1 blocks x 748 threads: 42.394833 ms
+Sample outputs: 14375616.000000
+Avg time for 1 blocks x 749 threads: 42.339386 ms
+Sample outputs: 14361453.000000
+Avg time for 1 blocks x 750 threads: 42.296707 ms
+Sample outputs: 14347092.000000
+Avg time for 1 blocks x 751 threads: 42.236168 ms
+Sample outputs: 14332179.000000
+Avg time for 1 blocks x 752 threads: 42.178577 ms
+Sample outputs: 14317165.000000
+Avg time for 1 blocks x 753 threads: 42.119488 ms
+Sample outputs: 14302316.000000
+Avg time for 1 blocks x 754 threads: 42.062828 ms
+Sample outputs: 14287340.000000
+Avg time for 1 blocks x 755 threads: 42.003075 ms
+Sample outputs: 14272171.000000
+Avg time for 1 blocks x 756 threads: 41.959202 ms
+Sample outputs: 14257194.000000
+Avg time for 1 blocks x 757 threads: 41.902626 ms
+Sample outputs: 14241773.000000
+Avg time for 1 blocks x 758 threads: 41.844872 ms
+Sample outputs: 14226767.000000
+Avg time for 1 blocks x 759 threads: 41.786404 ms
+Sample outputs: 14211219.000000
+Avg time for 1 blocks x 760 threads: 41.728504 ms
+Sample outputs: 14340279.000000
+Avg time for 1 blocks x 761 threads: 41.671898 ms
+Sample outputs: 14399921.000000
+Avg time for 1 blocks x 762 threads: 41.626762 ms
+Sample outputs: 14433438.000000
+Avg time for 1 blocks x 763 threads: 41.572334 ms
+Sample outputs: 14457538.000000
+Avg time for 1 blocks x 764 threads: 41.514595 ms
+Sample outputs: 14475811.000000
+Avg time for 1 blocks x 765 threads: 41.457268 ms
+Sample outputs: 14488059.000000
+Avg time for 1 blocks x 766 threads: 41.400261 ms
+Sample outputs: 14495683.000000
+Avg time for 1 blocks x 767 threads: 41.358917 ms
+Sample outputs: 14499246.000000
+Avg time for 1 blocks x 768 threads: 41.300568 ms
+Sample outputs: 14499113.000000
+Avg time for 1 blocks x 769 threads: 46.619610 ms
+Sample outputs: 14496153.000000
+Avg time for 1 blocks x 770 threads: 46.555176 ms
+Sample outputs: 14491097.000000
+Avg time for 1 blocks x 771 threads: 46.514656 ms
+Sample outputs: 14484344.000000
+Avg time for 1 blocks x 772 threads: 46.448921 ms
+Sample outputs: 14476009.000000
+Avg time for 1 blocks x 773 threads: 46.383911 ms
+Sample outputs: 14466531.000000
+Avg time for 1 blocks x 774 threads: 46.316605 ms
+Sample outputs: 14455916.000000
+Avg time for 1 blocks x 775 threads: 46.273182 ms
+Sample outputs: 14445057.000000
+Avg time for 1 blocks x 776 threads: 46.209404 ms
+Sample outputs: 14433397.000000
+Avg time for 1 blocks x 777 threads: 46.144920 ms
+Sample outputs: 14421257.000000
+Avg time for 1 blocks x 778 threads: 46.077404 ms
+Sample outputs: 14408229.000000
+Avg time for 1 blocks x 779 threads: 46.033051 ms
+Sample outputs: 14395256.000000
+Avg time for 1 blocks x 780 threads: 45.969151 ms
+Sample outputs: 14382101.000000
+Avg time for 1 blocks x 781 threads: 45.904308 ms
+Sample outputs: 14368755.000000
+Avg time for 1 blocks x 782 threads: 45.840645 ms
+Sample outputs: 14355239.000000
+Avg time for 1 blocks x 783 threads: 45.801121 ms
+Sample outputs: 14341351.000000
+Avg time for 1 blocks x 784 threads: 45.735420 ms
+Sample outputs: 14327074.000000
+Avg time for 1 blocks x 785 threads: 45.666992 ms
+Sample outputs: 14312785.000000
+Avg time for 1 blocks x 786 threads: 45.629128 ms
+Sample outputs: 14298473.000000
+Avg time for 1 blocks x 787 threads: 45.561447 ms
+Sample outputs: 14284054.000000
+Avg time for 1 blocks x 788 threads: 45.495617 ms
+Sample outputs: 14269603.000000
+Avg time for 1 blocks x 789 threads: 45.437843 ms
+Sample outputs: 14255164.000000
+Avg time for 1 blocks x 790 threads: 45.392273 ms
+Sample outputs: 14240632.000000
+Avg time for 1 blocks x 791 threads: 45.324810 ms
+Sample outputs: 14226242.000000
+Avg time for 1 blocks x 792 threads: 45.263657 ms
+Sample outputs: 14211195.000000
+Avg time for 1 blocks x 793 threads: 45.238350 ms
+Sample outputs: 14334677.000000
+Avg time for 1 blocks x 794 threads: 45.183758 ms
+Sample outputs: 14391997.000000
+Avg time for 1 blocks x 795 threads: 45.126907 ms
+Sample outputs: 14424197.000000
+Avg time for 1 blocks x 796 threads: 45.085346 ms
+Sample outputs: 14447251.000000
+Avg time for 1 blocks x 797 threads: 45.022621 ms
+Sample outputs: 14464604.000000
+Avg time for 1 blocks x 798 threads: 44.980610 ms
+Sample outputs: 14476816.000000
+Avg time for 1 blocks x 799 threads: 44.913643 ms
+Sample outputs: 14483971.000000
+Avg time for 1 blocks x 800 threads: 44.855343 ms
+Sample outputs: 14487174.000000
+Avg time for 1 blocks x 801 threads: 44.805367 ms
+Sample outputs: 14487226.000000
+Avg time for 1 blocks x 802 threads: 44.746101 ms
+Sample outputs: 14484390.000000
+Avg time for 1 blocks x 803 threads: 44.685402 ms
+Sample outputs: 14479431.000000
+Avg time for 1 blocks x 804 threads: 44.637878 ms
+Sample outputs: 14472948.000000
+Avg time for 1 blocks x 805 threads: 44.577732 ms
+Sample outputs: 14465102.000000
+Avg time for 1 blocks x 806 threads: 44.515663 ms
+Sample outputs: 14456037.000000
+Avg time for 1 blocks x 807 threads: 44.473709 ms
+Sample outputs: 14445948.000000
+Avg time for 1 blocks x 808 threads: 44.409584 ms
+Sample outputs: 14435444.000000
+Avg time for 1 blocks x 809 threads: 44.367256 ms
+Sample outputs: 14424309.000000
+Avg time for 1 blocks x 810 threads: 44.302666 ms
+Sample outputs: 14412620.000000
+Avg time for 1 blocks x 811 threads: 44.241005 ms
+Sample outputs: 14400149.000000
+Avg time for 1 blocks x 812 threads: 44.198616 ms
+Sample outputs: 14387642.000000
+Avg time for 1 blocks x 813 threads: 44.133362 ms
+Sample outputs: 14375035.000000
+Avg time for 1 blocks x 814 threads: 44.095364 ms
+Sample outputs: 14362350.000000
+Avg time for 1 blocks x 815 threads: 44.029354 ms
+Sample outputs: 14349273.000000
+Avg time for 1 blocks x 816 threads: 43.988392 ms
+Sample outputs: 14335950.000000
+Avg time for 1 blocks x 817 threads: 43.927330 ms
+Sample outputs: 14322243.000000
+Avg time for 1 blocks x 818 threads: 43.863674 ms
+Sample outputs: 14308452.000000
+Avg time for 1 blocks x 819 threads: 43.822479 ms
+Sample outputs: 14294821.000000
+Avg time for 1 blocks x 820 threads: 43.753456 ms
+Sample outputs: 14281096.000000
+Avg time for 1 blocks x 821 threads: 43.718586 ms
+Sample outputs: 14267107.000000
+Avg time for 1 blocks x 822 threads: 43.657261 ms
+Sample outputs: 14253253.000000
+Avg time for 1 blocks x 823 threads: 43.614044 ms
+Sample outputs: 14239407.000000
+Avg time for 1 blocks x 824 threads: 43.542747 ms
+Sample outputs: 14225507.000000
+Avg time for 1 blocks x 825 threads: 43.510551 ms
+Sample outputs: 14211088.000000
+Avg time for 1 blocks x 826 threads: 43.440773 ms
+Sample outputs: 14329867.000000
+Avg time for 1 blocks x 827 threads: 43.386742 ms
+Sample outputs: 14384825.000000
+Avg time for 1 blocks x 828 threads: 43.341667 ms
+Sample outputs: 14415627.000000
+Avg time for 1 blocks x 829 threads: 43.285709 ms
+Sample outputs: 14437657.000000
+Avg time for 1 blocks x 830 threads: 43.236481 ms
+Sample outputs: 14454658.000000
+Avg time for 1 blocks x 831 threads: 43.183304 ms
+Sample outputs: 14466068.000000
+Avg time for 1 blocks x 832 threads: 43.137051 ms
+Sample outputs: 14473169.000000
+Avg time for 1 blocks x 833 threads: 43.080338 ms
+Sample outputs: 14476135.000000
+Avg time for 1 blocks x 834 threads: 43.034637 ms
+Sample outputs: 14476284.000000
+Avg time for 1 blocks x 835 threads: 42.977669 ms
+Sample outputs: 14473508.000000
+Avg time for 1 blocks x 836 threads: 42.930637 ms
+Sample outputs: 14468826.000000
+Avg time for 1 blocks x 837 threads: 42.875496 ms
+Sample outputs: 14462400.000000
+Avg time for 1 blocks x 838 threads: 42.827026 ms
+Sample outputs: 14455089.000000
+Avg time for 1 blocks x 839 threads: 42.771736 ms
+Sample outputs: 14446422.000000
+Avg time for 1 blocks x 840 threads: 42.724754 ms
+Sample outputs: 14436679.000000
+Avg time for 1 blocks x 841 threads: 42.668797 ms
+Sample outputs: 14426458.000000
+Avg time for 1 blocks x 842 threads: 42.623680 ms
+Sample outputs: 14415784.000000
+Avg time for 1 blocks x 843 threads: 42.566158 ms
+Sample outputs: 14404499.000000
+Avg time for 1 blocks x 844 threads: 42.523811 ms
+Sample outputs: 14392638.000000
+Avg time for 1 blocks x 845 threads: 42.468239 ms
+Sample outputs: 14380686.000000
+Avg time for 1 blocks x 846 threads: 42.419922 ms
+Sample outputs: 14368709.000000
+Avg time for 1 blocks x 847 threads: 42.363548 ms
+Sample outputs: 14356365.000000
+Avg time for 1 blocks x 848 threads: 42.321857 ms
+Sample outputs: 14343985.000000
+Avg time for 1 blocks x 849 threads: 42.281582 ms
+Sample outputs: 14331013.000000
+Avg time for 1 blocks x 850 threads: 42.218678 ms
+Sample outputs: 14317795.000000
+Avg time for 1 blocks x 851 threads: 42.178078 ms
+Sample outputs: 14304829.000000
+Avg time for 1 blocks x 852 threads: 42.120289 ms
+Sample outputs: 14291563.000000
+Avg time for 1 blocks x 853 threads: 42.077015 ms
+Sample outputs: 14278504.000000
+Avg time for 1 blocks x 854 threads: 42.019497 ms
+Sample outputs: 14264941.000000
+Avg time for 1 blocks x 855 threads: 41.974957 ms
+Sample outputs: 14251759.000000
+Avg time for 1 blocks x 856 threads: 41.917473 ms
+Sample outputs: 14238276.000000
+Avg time for 1 blocks x 857 threads: 41.876328 ms
+Sample outputs: 14224968.000000
+Avg time for 1 blocks x 858 threads: 41.835236 ms
+Sample outputs: 14211068.000000
+Avg time for 1 blocks x 859 threads: 41.775616 ms
+Sample outputs: 14325215.000000
+Avg time for 1 blocks x 860 threads: 41.735374 ms
+Sample outputs: 14378258.000000
+Avg time for 1 blocks x 861 threads: 41.675228 ms
+Sample outputs: 14407849.000000
+Avg time for 1 blocks x 862 threads: 41.635132 ms
+Sample outputs: 14429066.000000
+Avg time for 1 blocks x 863 threads: 41.594322 ms
+Sample outputs: 14445209.000000
+Avg time for 1 blocks x 864 threads: 41.536068 ms
+Sample outputs: 14456362.000000
+Avg time for 1 blocks x 865 threads: 41.497272 ms
+Sample outputs: 14463019.000000
+Avg time for 1 blocks x 866 threads: 41.437531 ms
+Sample outputs: 14465925.000000
+Avg time for 1 blocks x 867 threads: 41.395683 ms
+Sample outputs: 14466114.000000
+Avg time for 1 blocks x 868 threads: 41.358269 ms
+Sample outputs: 14463499.000000
+Avg time for 1 blocks x 869 threads: 41.298862 ms
+Sample outputs: 14458867.000000
+Avg time for 1 blocks x 870 threads: 41.259117 ms
+Sample outputs: 14452856.000000
+Avg time for 1 blocks x 871 threads: 41.201099 ms
+Sample outputs: 14445602.000000
+Avg time for 1 blocks x 872 threads: 41.160034 ms
+Sample outputs: 14437434.000000
+Avg time for 1 blocks x 873 threads: 41.121445 ms
+Sample outputs: 14428211.000000
+Avg time for 1 blocks x 874 threads: 41.059673 ms
+Sample outputs: 14418375.000000
+Avg time for 1 blocks x 875 threads: 41.021534 ms
+Sample outputs: 14407948.000000
+Avg time for 1 blocks x 876 threads: 40.980286 ms
+Sample outputs: 14397386.000000
+Avg time for 1 blocks x 877 threads: 40.921806 ms
+Sample outputs: 14385751.000000
+Avg time for 1 blocks x 878 threads: 40.881737 ms
+Sample outputs: 14374415.000000
+Avg time for 1 blocks x 879 threads: 40.827393 ms
+Sample outputs: 14362719.000000
+Avg time for 1 blocks x 880 threads: 40.782494 ms
+Sample outputs: 14350798.000000
+Avg time for 1 blocks x 881 threads: 40.743275 ms
+Sample outputs: 14338947.000000
+Avg time for 1 blocks x 882 threads: 40.687859 ms
+Sample outputs: 14326386.000000
+Avg time for 1 blocks x 883 threads: 40.647762 ms
+Sample outputs: 14313796.000000
+Avg time for 1 blocks x 884 threads: 40.606567 ms
+Sample outputs: 14301241.000000
+Avg time for 1 blocks x 885 threads: 40.550201 ms
+Sample outputs: 14288586.000000
+Avg time for 1 blocks x 886 threads: 40.510475 ms
+Sample outputs: 14275959.000000
+Avg time for 1 blocks x 887 threads: 40.470863 ms
+Sample outputs: 14263080.000000
+Avg time for 1 blocks x 888 threads: 40.413185 ms
+Sample outputs: 14250249.000000
+Avg time for 1 blocks x 889 threads: 40.373379 ms
+Sample outputs: 14237268.000000
+Avg time for 1 blocks x 890 threads: 40.334877 ms
+Sample outputs: 14224358.000000
+Avg time for 1 blocks x 891 threads: 40.273281 ms
+Sample outputs: 14211018.000000
+Avg time for 1 blocks x 892 threads: 40.236729 ms
+Sample outputs: 14320833.000000
+Avg time for 1 blocks x 893 threads: 40.199287 ms
+Sample outputs: 14371808.000000
+Avg time for 1 blocks x 894 threads: 40.141308 ms
+Sample outputs: 14400577.000000
+Avg time for 1 blocks x 895 threads: 40.102005 ms
+Sample outputs: 14421106.000000
+Avg time for 1 blocks x 896 threads: 40.064613 ms
+Sample outputs: 14436642.000000
+Avg time for 1 blocks x 897 threads: 45.001808 ms
+Sample outputs: 14447268.000000
+Avg time for 1 blocks x 898 threads: 44.957542 ms
+Sample outputs: 14453909.000000
+Avg time for 1 blocks x 899 threads: 44.916603 ms
+Sample outputs: 14456824.000000
+Avg time for 1 blocks x 900 threads: 44.874569 ms
+Sample outputs: 14456915.000000
+Avg time for 1 blocks x 901 threads: 44.805367 ms
+Sample outputs: 14454325.000000
+Avg time for 1 blocks x 902 threads: 44.765690 ms
+Sample outputs: 14449922.000000
+Avg time for 1 blocks x 903 threads: 44.717995 ms
+Sample outputs: 14444086.000000
+Avg time for 1 blocks x 904 threads: 44.656757 ms
+Sample outputs: 14437073.000000
+Avg time for 1 blocks x 905 threads: 44.610752 ms
+Sample outputs: 14429075.000000
+Avg time for 1 blocks x 906 threads: 44.570450 ms
+Sample outputs: 14420219.000000
+Avg time for 1 blocks x 907 threads: 44.528717 ms
+Sample outputs: 14410915.000000
+Avg time for 1 blocks x 908 threads: 44.459091 ms
+Sample outputs: 14400751.000000
+Avg time for 1 blocks x 909 threads: 44.415962 ms
+Sample outputs: 14390448.000000
+Avg time for 1 blocks x 910 threads: 44.376694 ms
+Sample outputs: 14379491.000000
+Avg time for 1 blocks x 911 threads: 44.334641 ms
+Sample outputs: 14368463.000000
+Avg time for 1 blocks x 912 threads: 44.267277 ms
+Sample outputs: 14357089.000000
+Avg time for 1 blocks x 913 threads: 44.224014 ms
+Sample outputs: 14345778.000000
+Avg time for 1 blocks x 914 threads: 44.182636 ms
+Sample outputs: 14334362.000000
+Avg time for 1 blocks x 915 threads: 44.124130 ms
+Sample outputs: 14322413.000000
+Avg time for 1 blocks x 916 threads: 44.073200 ms
+Sample outputs: 14310298.000000
+Avg time for 1 blocks x 917 threads: 44.031277 ms
+Sample outputs: 14298101.000000
+Avg time for 1 blocks x 918 threads: 43.991749 ms
+Sample outputs: 14285841.000000
+Avg time for 1 blocks x 919 threads: 43.932289 ms
+Sample outputs: 14273543.000000
+Avg time for 1 blocks x 920 threads: 43.882225 ms
+Sample outputs: 14261168.000000
+Avg time for 1 blocks x 921 threads: 43.840050 ms
+Sample outputs: 14248852.000000
+Avg time for 1 blocks x 922 threads: 43.798569 ms
+Sample outputs: 14236265.000000
+Avg time for 1 blocks x 923 threads: 43.758293 ms
+Sample outputs: 14224080.000000
+Avg time for 1 blocks x 924 threads: 43.693634 ms
+Sample outputs: 14211125.000000
+Avg time for 1 blocks x 925 threads: 43.660202 ms
+Sample outputs: 14316873.000000
+Avg time for 1 blocks x 926 threads: 43.627247 ms
+Sample outputs: 14366167.000000
+Avg time for 1 blocks x 927 threads: 43.586586 ms
+Sample outputs: 14393906.000000
+Avg time for 1 blocks x 928 threads: 43.525017 ms
+Sample outputs: 14413550.000000
+Avg time for 1 blocks x 929 threads: 43.480370 ms
+Sample outputs: 14428591.000000
+Avg time for 1 blocks x 930 threads: 43.434391 ms
+Sample outputs: 14439058.000000
+Avg time for 1 blocks x 931 threads: 43.397896 ms
+Sample outputs: 14445424.000000
+Avg time for 1 blocks x 932 threads: 43.356014 ms
+Sample outputs: 14448195.000000
+Avg time for 1 blocks x 933 threads: 43.296791 ms
+Sample outputs: 14447943.000000
+Avg time for 1 blocks x 934 threads: 43.245266 ms
+Sample outputs: 14445673.000000
+Avg time for 1 blocks x 935 threads: 43.205963 ms
+Sample outputs: 14441564.000000
+Avg time for 1 blocks x 936 threads: 43.165340 ms
+Sample outputs: 14435864.000000
+Avg time for 1 blocks x 937 threads: 43.132671 ms
+Sample outputs: 14429309.000000
+Avg time for 1 blocks x 938 threads: 43.064537 ms
+Sample outputs: 14421506.000000
+Avg time for 1 blocks x 939 threads: 43.020882 ms
+Sample outputs: 14412802.000000
+Avg time for 1 blocks x 940 threads: 42.976944 ms
+Sample outputs: 14403955.000000
+Avg time for 1 blocks x 941 threads: 42.935287 ms
+Sample outputs: 14394195.000000
+Avg time for 1 blocks x 942 threads: 42.893562 ms
+Sample outputs: 14384071.000000
+Avg time for 1 blocks x 943 threads: 42.836884 ms
+Sample outputs: 14373660.000000
+Avg time for 1 blocks x 944 threads: 42.792107 ms
+Sample outputs: 14362932.000000
+Avg time for 1 blocks x 945 threads: 42.744987 ms
+Sample outputs: 14352214.000000
+Avg time for 1 blocks x 946 threads: 42.702515 ms
+Sample outputs: 14341197.000000
+Avg time for 1 blocks x 947 threads: 42.660957 ms
+Sample outputs: 14330095.000000
+Avg time for 1 blocks x 948 threads: 42.624107 ms
+Sample outputs: 14318476.000000
+Avg time for 1 blocks x 949 threads: 42.561718 ms
+Sample outputs: 14306664.000000
+Avg time for 1 blocks x 950 threads: 42.519310 ms
+Sample outputs: 14294783.000000
+Avg time for 1 blocks x 951 threads: 42.477116 ms
+Sample outputs: 14283176.000000
+Avg time for 1 blocks x 952 threads: 42.435505 ms
+Sample outputs: 14271306.000000
+Avg time for 1 blocks x 953 threads: 42.396511 ms
+Sample outputs: 14259488.000000
+Avg time for 1 blocks x 954 threads: 42.354248 ms
+Sample outputs: 14247430.000000
+Avg time for 1 blocks x 955 threads: 42.296124 ms
+Sample outputs: 14235560.000000
+Avg time for 1 blocks x 956 threads: 42.255466 ms
+Sample outputs: 14223653.000000
+Avg time for 1 blocks x 957 threads: 42.212112 ms
+Sample outputs: 14211133.000000
+Avg time for 1 blocks x 958 threads: 42.168674 ms
+Sample outputs: 14313162.000000
+Avg time for 1 blocks x 959 threads: 42.130257 ms
+Sample outputs: 14360709.000000
+Avg time for 1 blocks x 960 threads: 42.088173 ms
+Sample outputs: 14387556.000000
+Avg time for 1 blocks x 961 threads: 42.049755 ms
+Sample outputs: 14406649.000000
+Avg time for 1 blocks x 962 threads: 41.990650 ms
+Sample outputs: 14420974.000000
+Avg time for 1 blocks x 963 threads: 41.948139 ms
+Sample outputs: 14431123.000000
+Avg time for 1 blocks x 964 threads: 41.906563 ms
+Sample outputs: 14437159.000000
+Avg time for 1 blocks x 965 threads: 41.864567 ms
+Sample outputs: 14439693.000000
+Avg time for 1 blocks x 966 threads: 41.823219 ms
+Sample outputs: 14439878.000000
+Avg time for 1 blocks x 967 threads: 41.781578 ms
+Sample outputs: 14437691.000000
+Avg time for 1 blocks x 968 threads: 41.742214 ms
+Sample outputs: 14433617.000000
+Avg time for 1 blocks x 969 threads: 41.699028 ms
+Sample outputs: 14428290.000000
+Avg time for 1 blocks x 970 threads: 41.660011 ms
+Sample outputs: 14421881.000000
+Avg time for 1 blocks x 971 threads: 41.603024 ms
+Sample outputs: 14414339.000000
+Avg time for 1 blocks x 972 threads: 41.559231 ms
+Sample outputs: 14405926.000000
+Avg time for 1 blocks x 973 threads: 41.520500 ms
+Sample outputs: 14397268.000000
+Avg time for 1 blocks x 974 threads: 41.478828 ms
+Sample outputs: 14387864.000000
+Avg time for 1 blocks x 975 threads: 41.437584 ms
+Sample outputs: 14378241.000000
+Avg time for 1 blocks x 976 threads: 41.397488 ms
+Sample outputs: 14368218.000000
+Avg time for 1 blocks x 977 threads: 41.356102 ms
+Sample outputs: 14357817.000000
+Avg time for 1 blocks x 978 threads: 41.318115 ms
+Sample outputs: 14347335.000000
+Avg time for 1 blocks x 979 threads: 41.277275 ms
+Sample outputs: 14336723.000000
+Avg time for 1 blocks x 980 threads: 41.220829 ms
+Sample outputs: 14325831.000000
+Avg time for 1 blocks x 981 threads: 41.176125 ms
+Sample outputs: 14314859.000000
+Avg time for 1 blocks x 982 threads: 41.138817 ms
+Sample outputs: 14303425.000000
+Avg time for 1 blocks x 983 threads: 41.098850 ms
+Sample outputs: 14292132.000000
+Avg time for 1 blocks x 984 threads: 41.055946 ms
+Sample outputs: 14280669.000000
+Avg time for 1 blocks x 985 threads: 41.016327 ms
+Sample outputs: 14269390.000000
+Avg time for 1 blocks x 986 threads: 40.975700 ms
+Sample outputs: 14257601.000000
+Avg time for 1 blocks x 987 threads: 40.935387 ms
+Sample outputs: 14246213.000000
+Avg time for 1 blocks x 988 threads: 40.896973 ms
+Sample outputs: 14234716.000000
+Avg time for 1 blocks x 989 threads: 40.857372 ms
+Sample outputs: 14223151.000000
+Avg time for 1 blocks x 990 threads: 40.816551 ms
+Sample outputs: 14210995.000000
+Avg time for 1 blocks x 991 threads: 40.779507 ms
+Sample outputs: 14309720.000000
+Avg time for 1 blocks x 992 threads: 40.739716 ms
+Sample outputs: 14355804.000000
+Avg time for 1 blocks x 993 threads: 40.683712 ms
+Sample outputs: 14381802.000000
+Avg time for 1 blocks x 994 threads: 40.644684 ms
+Sample outputs: 14400296.000000
+Avg time for 1 blocks x 995 threads: 40.601933 ms
+Sample outputs: 14414243.000000
+Avg time for 1 blocks x 996 threads: 40.560707 ms
+Sample outputs: 14423840.000000
+Avg time for 1 blocks x 997 threads: 40.520393 ms
+Sample outputs: 14429805.000000
+Avg time for 1 blocks x 998 threads: 40.481899 ms
+Sample outputs: 14432328.000000
+Avg time for 1 blocks x 999 threads: 40.441452 ms
+Sample outputs: 14432276.000000
+Avg time for 1 blocks x 1000 threads: 40.403694 ms
+Sample outputs: 14430344.000000
+Avg time for 1 blocks x 1001 threads: 40.361347 ms
+Sample outputs: 14426298.000000
+Avg time for 1 blocks x 1002 threads: 40.321720 ms
+Sample outputs: 14421080.000000
+Avg time for 1 blocks x 1003 threads: 40.283325 ms
+Sample outputs: 14414884.000000
+Avg time for 1 blocks x 1004 threads: 40.243011 ms
+Sample outputs: 14407740.000000
+Avg time for 1 blocks x 1005 threads: 40.203568 ms
+Sample outputs: 14399558.000000
+Avg time for 1 blocks x 1006 threads: 40.166248 ms
+Sample outputs: 14391223.000000
+Avg time for 1 blocks x 1007 threads: 40.127014 ms
+Sample outputs: 14382044.000000
+Avg time for 1 blocks x 1008 threads: 40.087811 ms
+Sample outputs: 14372777.000000
+Avg time for 1 blocks x 1009 threads: 40.050480 ms
+Sample outputs: 14363080.000000
+Avg time for 1 blocks x 1010 threads: 40.011517 ms
+Sample outputs: 14352985.000000
+Avg time for 1 blocks x 1011 threads: 39.972046 ms
+Sample outputs: 14343056.000000
+Avg time for 1 blocks x 1012 threads: 39.932827 ms
+Sample outputs: 14332779.000000
+Avg time for 1 blocks x 1013 threads: 39.892834 ms
+Sample outputs: 14322361.000000
+Avg time for 1 blocks x 1014 threads: 39.854145 ms
+Sample outputs: 14311529.000000
+Avg time for 1 blocks x 1015 threads: 39.815834 ms
+Sample outputs: 14300657.000000
+Avg time for 1 blocks x 1016 threads: 39.777283 ms
+Sample outputs: 14289561.000000
+Avg time for 1 blocks x 1017 threads: 39.738377 ms
+Sample outputs: 14278626.000000
+Avg time for 1 blocks x 1018 threads: 39.700031 ms
+Sample outputs: 14267651.000000
+Avg time for 1 blocks x 1019 threads: 39.661552 ms
+Sample outputs: 14256285.000000
+Avg time for 1 blocks x 1020 threads: 39.622017 ms
+Sample outputs: 14245253.000000
+Avg time for 1 blocks x 1021 threads: 39.583790 ms
+Sample outputs: 14234110.000000
+Avg time for 1 blocks x 1022 threads: 39.544525 ms
+Sample outputs: 14222909.000000
+Avg time for 1 blocks x 1023 threads: 39.506187 ms
+Sample outputs: 14211141.000000
+Avg time for 1 blocks x 1024 threads: 39.452557 ms
+Sample outputs: 14306626.000000
